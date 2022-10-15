@@ -7,7 +7,7 @@ _Jdk 8_
 _mvn package_
 ### To run the Application -
 _java -cp /path-of/MedicineRoutineApp-1.0-SNAPSHOT-jar-with-dependencies.jar App /path-of/application.properties_
-### Must have these props to be mentioned in application.properties -
+### Must have properties in application.properties -
 
 db.host = _____
 
