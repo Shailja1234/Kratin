@@ -10,7 +10,11 @@ _java -cp /path-of/MedicineRoutineApp-1.0-SNAPSHOT-jar-with-dependencies.jar App
 ### Must have these props to be mentioned in application.properties -
 
 db.host = _____
+
 db.username = _____ 
+
 db.password = ____
+
 db.name = ____
+
 db.port = ____
